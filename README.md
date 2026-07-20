@@ -27,3 +27,6 @@ This project implements a TCP Client-Server application in C.
 
 * KTU S5 Computer Networks Lab
 * Topic: TCP Socket Programming
+=======
+# tcp-socket-character-count
+TCP Client-Server Socket Program to Count Characters in a String
